@@ -162,18 +162,15 @@ This dashboard provides an overall view of customer retention, churn distributio
 - Total Revenue: 456K
 - Retained Customers: 5,174
 - Churn Rate: 26.5%
+- Retention Rate: 73.5%
 - Average Tenure: 32.37 Months
 
-**Visualizations:**
+**Key Analysis:**
 - Customer Churn by Internet Service.
 - Churn Trend by Customer Tenure.
 - Churn by Payment Method.
 - Churn by Contract Type.
 - Overall Customer Retention Analysis.
-
-### Dashboard Preview
-
-![Customer Churn Overview Dashboard](IBM%20Customer%20Churn%20Analysis%20Page-1.png)
 
 ### Dashboard Page 2 — High-Value Customer Churn Analysis
 
@@ -186,9 +183,9 @@ This dashboard focuses on identifying high-value customers who are at risk of le
 - Churn Risk by Internet Service.
 - Contract-Based Churn Analysis.
 
-### Dashboard Preview
+**Business Objective:**
 
-![High Value Customer Churn Dashboard](IBM%20High%20Value%20Customer%20Churn%20Page-2.png)
+Identify high-value customers at risk of leaving, prioritize retention activities, and reduce potential revenue loss through data-driven decisions.
 
 ---
 
@@ -215,23 +212,17 @@ Month-to-month customers contribute approximately 45% of churn.
 
 **Business Opportunity:** Encourage customers to switch to annual or long-term contracts through loyalty benefits and contract upgrade offers.
 
-![Churn by Contract](u_Churn%20by%20Contract.png)
-
 ### Insight 2 — Predicted Customer Behaviour
 
 Machine Learning analysis helps identify customers likely to churn and customers expected to stay.
 
 **Business Opportunity:** Use churn probability scores to prioritize retention campaigns.
 
-![Predicted Customer Behaviour](x_Predicted%20Customer%20behaviour.png)
-
 ### Insight 3 — Top 10 Reasons Behind Customer Churn
 
 Understanding the major churn reasons helps businesses identify operational and service-related improvement opportunities.
 
 **Business Opportunity:** Develop targeted solutions based on the most significant customer dissatisfaction factors.
-
-![Top 10 Reasons Behind Customer Churn](y_Top%2010%20Reason%20of%20Customer%20Churn.png)
 
 ### Insight 4 — Machine Learning Confusion Matrix
 
@@ -246,8 +237,6 @@ It helps identify:
 
 **Business Opportunity:** Improve churn detection while balancing missed churners against unnecessary retention campaign costs.
 
-![Machine Learning Confusion Matrix](z_Confusion_Matrix.png)
-
 ---
 
 ## 9. Machine Learning — Customer Churn Prediction
@@ -255,6 +244,7 @@ It helps identify:
 A supervised Machine Learning approach was implemented to predict customer churn behaviour.
 
 ### Algorithms Explored
+
 - Logistic Regression
 - Random Forest Classifier
 
@@ -397,6 +387,7 @@ Based on the analysis, the following actions are recommended:
 ## 14. Skills Demonstrated
 
 ### Technical Skills
+
 - SQL & MySQL
 - Python
 - Pandas & NumPy
@@ -409,6 +400,7 @@ Based on the analysis, the following actions are recommended:
 - Data Visualization
 
 ### Business & Analytical Skills
+
 - Customer Churn Analysis
 - Customer Segmentation
 - Revenue Analysis
@@ -449,4 +441,5 @@ My focus is on solving real-world business problems through data-driven analysis
 ---
 
 ⭐ If you find this project useful, consider giving this repository a star!
+
 
